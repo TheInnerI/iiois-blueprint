@@ -128,13 +128,15 @@ Self-deploy is free. If you want it done for you:
 
 ## License
 
-The IIOIS blueprint architecture is **open** — copy it, adapt it, extend it for your own Observer Intelligence System. Specific vault contents (each operator's notes, agents, business lines) remain **sovereign** to that operator.
+The Inner I is not a brand. It is the observer within every human being. The IIOIS architecture is **open** — copy it, adapt it, extend it, rename it, make it yours. No one owns the Inner I.
 
 If you derive a new blueprint from this one, the courteous move is to record "derived from Inner I Network v1.0 at innerinetcompany.com" somewhere in your own canonical ontology.
 
 ## Built By
 
-**Inner I Network** — [innerinetcompany.com](https://innerinetcompany.com)
+**inneri76** — [innerinetcompany.com](https://innerinetcompany.com)
+
+The Inner I is not a brand. It is the observer within every human being. This infrastructure exists to serve that observer — in you, in anyone who deploys it, in anyone who forks it. No one owns the Inner I. inneri76 built the tools. The tools are yours.
 
 Contact: i@innerinetcompany.com
 
